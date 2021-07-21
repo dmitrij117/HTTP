@@ -1,9 +1,5 @@
-Cat/Name.java
- Cat.Name
-Cat/User.java
- Cat.User
 Main.java
  Main
  Main$1
-Cat/Cat.java
- Cat.Cat
+fact/Cats.java
+ fact.Cats
